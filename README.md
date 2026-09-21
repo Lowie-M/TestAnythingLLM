@@ -2,7 +2,7 @@
 
 ## Editing a record
 
-Users with either the **Editor** or **Administrator** role are allowed to modify records.
+Users with either the **Editor** or **Administrator** or **Writing** role are allowed to modify records.
 
 To alter an existing record:
 
@@ -11,6 +11,7 @@ To alter an existing record:
 3. Click Edit.
 4. Update the required fields.
 5. Click Save.
+6. Confirm The Save
 
 ## Deleting a record
 
