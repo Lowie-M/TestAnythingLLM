@@ -2,6 +2,8 @@
 
 ## Editing a record
 
+Users with either the **Editor** or **Administrator** role are allowed to modify records.
+
 To alter an existing record:
 
 1. Open the Records page.
@@ -10,8 +12,8 @@ To alter an existing record:
 4. Update the required fields.
 5. Click Save.
 
-Only users with the **Editor** role are allowed to modify records.
-
 ## Deleting a record
 
-Records cannot be permanently deleted. They can only be archived.
+Administrators can permanently delete records from the Advanced Actions menu.
+
+Editors can only archive records.
