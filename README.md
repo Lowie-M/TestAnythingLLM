@@ -2,7 +2,7 @@
 
 ## Editing a record
 
-Users with either the **Editor** or **Administrator** or **Writing** **Editor2** role are allowed to modify records.
+Users with either the **Editor** or **Administrator** or **Writing** or **Editor2** role are allowed to modify records.
 
 To alter an existing record:
 
