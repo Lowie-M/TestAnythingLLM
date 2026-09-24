@@ -12,6 +12,7 @@ To alter an existing record:
 4. Update the required fields.
 5. Click Save.
 6. Confirm The Save
+7. Confirm the confirm
 
 ## Deleting a record
 
